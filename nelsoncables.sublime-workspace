@@ -1,0 +1,297 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "nelsoncables.sublime-project",
+			"settings":
+			{
+				"buffer_size": 90,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"migrat",
+				"LaTeXTools: Reconfigure and migrate settings"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Will/Dropbox/Code/GitHub/nelsoncables/CNAME",
+		"/C/Users/Will/Dropbox/Code/GitHub/nelsoncables/index.html",
+		"//BAST_SERVER/BAST_Shared_Files/QA Documents/BAST Computer Systems Validation/planning/QA_update_Nov_2015/tool_for_checking_NONMEM_data_files/QC_report.tex",
+		"/C/Users/Will/Documents/R/BAST1/src/RcppExports.cpp",
+		"//BAST_SERVER/BAST_Shared_Files/CTS/CTS_Dev't/main_for_Rpackage/main.cpp",
+		"//BAST_SERVER/BAST_Shared_Files/QA Documents/BAST Computer Systems Validation/planning/QA_update_Nov_2015/tool_for_checking_NONMEM_data_files/QC_report-knitr.tex",
+		"/C/Users/Will/Dropbox/Thesis/TeX_main/acknowledgements.tex",
+		"/C/Users/Will/Dropbox/Thesis/TeX_main/Chapters/introduction/introduction2.tex",
+		"/C/Users/Will/Dropbox/Thesis/TeX_main/Chapters/chapter3/chapter3.tex",
+		"/C/Users/Will/Dropbox/Thesis/TeX_main/Chapters/chapter4/chapter4.tex",
+		"/C/Users/Will/Dropbox/Thesis/TeX_main/main.tex",
+		"/C/Users/Will/Dropbox/Employment/CVs/cv_3/cv_3.tex",
+		"/C/Users/William/Dropbox/Thesis/TeX_main/Chapters/introduction/introduction2.tex",
+		"/C/Users/Will/Dropbox/Thesis/TeX_main/abstract.tex",
+		"/C/Users/Will/Dropbox/Thesis/TeX_main/Chapters/conclusion/conclusion.tex",
+		"/C/Users/Will/Dropbox/Thesis/TeX_main/Chapters/chapter2/chapter2.tex",
+		"/C/Users/Will/Dropbox/Thesis/TeX_main/Chapters/appendixA/appendixA.tex",
+		"/C/Users/Will/Dropbox/Thesis/TeX_main/titlepage.tex",
+		"/C/Users/William/Dropbox/Thesis/TeX_main/Chapters/chapter2/chapter2.tex",
+		"/C/Users/Will/Dropbox/Thesis/TeX_main/main.toc",
+		"/C/Users/Will/Dropbox/Thesis/TeX_main/Chapters/introduction/introduction.tex",
+		"/C/Users/William/Dropbox/Thesis/TeX_main/Chapters/introduction/introduction.tex",
+		"/C/Users/Will/Dropbox/Thesis/TeX_main/references.bib",
+		"/C/Users/Will/Dropbox/Thesis/TeX_main/Chapters/chapter5/chapter5.tex",
+		"/C/Users/Will/Dropbox/Papers_for_publication/Paper_2/Paper_collaboration/CEOPs.tex",
+		"/C/Users/Will/AppData/Roaming/Sublime Text 2/Packages/LaTeXTools/LaTeX.sublime-build",
+		"/C/Users/Will/AppData/Roaming/Sublime Text 2/Packages/User/LaTeXTools.sublime-settings",
+		"/C/Users/Will/AppData/Roaming/Sublime Text 2/Packages/LaTeXTools/LaTeXTools Preferences.sublime-settings.OLD",
+		"/C/Users/Will/Dropbox/Thesis/TeX_main/Thesis2.sublime-project",
+		"/C/Users/William/Dropbox/Thesis2/Chapters/chapter4/chapter4.tex",
+		"/C/Users/William/Dropbox/Programming/GitHub/ICManalyser/James3.csv",
+		"/C/Users/William/Dropbox/Programming/GitHub/ICManalyser/Dave3.csv",
+		"/C/Users/William/Dropbox/Programming/GitHub/ICManalyser/Will3.csv",
+		"/C/Users/William/Dropbox/University of Leeds/MATH5004/MATH5004.tex",
+		"/C/Users/William/Dropbox/Programming/GitHub/ICManalyser/Haessar_checklist.csv",
+		"/C/Users/William/Dropbox/Programming/GitHub/ICManalyser/hermesmovies_checklist.csv",
+		"/C/Users/William/Dropbox/Programming/GitHub/ICManalyser/James88_checklist.csv",
+		"/C/Users/William/Dropbox/R/Data/will_list.csv",
+		"/C/Users/William/Dropbox/Programming/GitHub/ICManalyser/hermesmovie_checklist.csv",
+		"/C/Users/William/Dropbox/R/Data/dave_list.csv",
+		"/C/Users/William/Dropbox/R/Data/checkedW.csv",
+		"/C/Users/Will/Dropbox/Thesis2/main.toc",
+		"/C/Users/Will/Dropbox/Thesis 2/main.tex",
+		"/C/Users/Will/Dropbox/Thesis 2/Chapters/chapter4/chapter4.tex",
+		"/C/Users/William/AppData/Roaming/Sublime Text 2/Packages/User/LaTeXTools.sublime-settings"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"compl",
+			"excH",
+			"compl",
+			"complex_euclid",
+			"\\addtocounter",
+			"\\addto",
+			"addto",
+			"Fig:spect",
+			"Part",
+			"ADE",
+			"quesne",
+			"LLMS-EOP-LP",
+			"spectral curve",
+			"zabrodinreview",
+			"zabrodin",
+			"2l",
+			"lemma",
+			"p=pm2condition",
+			"l2,a_i,b_irelations",
+			"lQa_i,b_irelations",
+			"ChEq",
+			"detMQ3",
+			"ChEq",
+			"explicittrM_4^{(2)}",
+			"trM_3^{(2)}",
+			"l2M_3",
+			"proda,prodb=1",
+			"l2,a_i,b_irelations",
+			"l2,a_i,b_i",
+			"\\eqref{E_3",
+			"\\eqref{E_2",
+			"\\eqref{E_1",
+			"trM_2n",
+			"Qiterations",
+			"{M_Q^l",
+			"\\eqref{b_k}",
+			"\\eqref{a_k",
+			"M2n1",
+			"M2n",
+			"M_kR_k",
+			"M_k",
+			"trM_5=2costheta",
+			"CCpsi",
+			"E_1(theta)",
+			"trM=2costheta",
+			"3x3eigProb",
+			"ChEq",
+			"detMQ3",
+			"\\eqref{a_i,b_irelations",
+			"a_i,b_irelations",
+			"a_i,b_i",
+			"Q3monodromy",
+			"\\eqref{psi_3",
+			"erroneousDE",
+			"a_kb_k",
+			"psi_(k+Q)",
+			"monodromymatrixQ",
+			"begin{equation}",
+			"a_k+Q=a_k",
+			"psi_(k+Q)",
+			"band",
+			"band edg",
+			"finding",
+			"theorem",
+			"lemma",
+			"PeriodicRoots",
+			"This",
+			"zetaperiodicity",
+			"wrapfig",
+			"cases"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "nelsoncables.sublime-project",
+					"settings":
+					{
+						"buffer_size": 90,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 151.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 351.0,
+	"status_bar_visible": true
+}
